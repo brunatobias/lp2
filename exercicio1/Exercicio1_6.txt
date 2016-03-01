@@ -1,0 +1,11 @@
+No ítem 3 o resultado foi dado em inteiro, sendo assim não tem numeros decimais:
+O valor da soma foi: 68
+O valor da multiplicação foi: 2700
+O valor da divisão foi: 0
+O valor da subtração foi: 22
+
+Já nos ítens 4 e 5 respectivamente float e double o resultado pode ser dado em decimais, mostrando o valor real das operações:
+O valor da soma foi: 68.0
+O valor da multiplicação foi: 2700.0
+O valor da divisão foi: 0.75
+O valor da subtração foi: 22.0
