@@ -1,7 +1,8 @@
 public class Exercicio1_1{
-	public static void main(String [] args){
-		String nome = args[0];
-		System.out.println("o meu nome é " + nome);
+
+public static void main(String [] args){
+
+System.out.println("o meu nome é Bruna");
+	
 	}
 }
-
