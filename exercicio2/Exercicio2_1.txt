@@ -1,0 +1,6 @@
+Tipo Abstrato de Dados: É uma abstração onde a gente define os atributos e métodos.
+Classe: É um tipo abstrato de dados. Exemplo: PILHA, FILA, ÁRVORES.
+Objeto: São instâncias da classe, ou seja, significa dar vida a classe.
+Mensagens:Mensagem, no caso da informática, seria uma espécie de 'mensagem fictícia' que ocorre dentro do sistema para 'invocar' diretamente uma classe com finalidade de usá-la ou simplesmente invocar 'estados' da classe.
+
+
